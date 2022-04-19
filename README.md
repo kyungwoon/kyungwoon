@@ -4,6 +4,11 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kyungwoon91)](https://solved.ac/kyungwoon91)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungwoon&show_icons=true&theme=dark)
 
+
+🔨 SKILL 🔨 <br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/Springboot-47?style=for-the-badge&logo=Springboot&logoColor=white"><img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"><img src="https://img.shields.io/badge/TravisCI-FC5230?style=for-the-badge&logo=TravisCI&logoColor=white"><img src="https://img.shields.io/badge/CodeDepoly-1F497D?style=for-the-badge&logo=CodeDepoly&logoColor=white"><img src="https://img.shields.io/badge/S3-FC5230?style=for-the-badge&logo=S3&logoColor=white"><img src="https://img.shields.io/badge/Nginx-7DB249?style=for-the-badge&logo=Nginx&logoColor=white">
+
 <!--
 **kyungwoon/kyungwoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
